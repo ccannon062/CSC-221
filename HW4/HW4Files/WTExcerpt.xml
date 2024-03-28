@@ -1,0 +1,1219 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<title> The Winter’s Tale </title>
+<body>
+<head>
+<w> ACT </w>
+<w> 1 </w>
+<w> Scene </w>
+<w> 1 </w>
+</head>
+<stage>
+<w> Enter </w>
+<w> Camillo </w>
+<w> and </w>
+<w> Archidamus </w>
+<pc>.</pc>
+</stage>
+<sp>
+<speaker>
+<w> ARCHIDAMUS </w>
+</speaker>
+<w> If </w>
+<w> you </w>
+<w> shall </w>
+<w> chance </w>
+<pc>,</pc>
+<w> Camillo </w>
+<pc>,</pc>
+<w> to </w>
+<w> visit </w>
+<w> Bohemia </w>
+<w> on </w>
+<w> the </w>
+<w> like </w>
+<w> occasion </w>
+<w> whereon </w>
+<w> my </w>
+<w> services </w>
+<w> are </w>
+<w> now </w>
+<w> on </w>
+<w> foot </w>
+<pc>,</pc>
+<w> you </w>
+<w> shall </w>
+<w> see </w>
+<pc>,</pc>
+<w> as </w>
+<w> I </w>
+<w> have </w>
+<w> said </w>
+<pc>,</pc>
+<w> great </w>
+<w> difference </w>
+<w> betwixt </w>
+<w> our </w>
+<w> Bohemia </w>
+<w> and </w>
+<w> your </w>
+<w> Sicilia </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> CAMILLO </w>
+</speaker>
+<w> I </w>
+<w> think </w>
+<w> this </w>
+<w> coming </w>
+<w> summer </w>
+<w> the </w>
+<w> King </w>
+<w> of </w>
+<w> Sicilia </w>
+<w> means </w>
+<w> to </w>
+<w> pay </w>
+<w> Bohemia </w>
+<w> the </w>
+<w> visitation </w>
+<w> which </w>
+<w> he </w>
+<w> justly </w>
+<w> owes </w>
+<w> him </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> ARCHIDAMUS </w>
+</speaker>
+<w> Wherein </w>
+<w> our </w>
+<w> entertainment </w>
+<w> shall </w>
+<w> shame </w>
+<w> us </w>
+<pc>;</pc>
+<w> we </w>
+<w> will </w>
+<w> be </w>
+<w> justified </w>
+<w> in </w>
+<w> our </w>
+<w> loves </w>
+<pc>.</pc>
+<w> For </w>
+<w> indeed </w>
+</sp>
+<sp>
+<speaker>
+<w> CAMILLO </w>
+</speaker>
+<w> Beseech </w>
+<w> you </w>
+</sp>
+<sp>
+<speaker>
+<w> ARCHIDAMUS </w>
+</speaker>
+<w> Verily </w>
+<pc>,</pc>
+<w> I </w>
+<w> speak </w>
+<w> it </w>
+<w> in </w>
+<w> the </w>
+<w> freedom </w>
+<w> of </w>
+<w> my </w>
+<w> knowledge </w>
+<pc>.</pc>
+<w> We </w>
+<w> cannot </w>
+<w> with </w>
+<w> such </w>
+<w> magnificence </w>
+<w> in </w>
+<w> so </w>
+<w> rare </w>
+<w> I </w>
+<w> know </w>
+<w> not </w>
+<w> what </w>
+<w> to </w>
+<w> say </w>
+<pc>.</pc>
+<w> We </w>
+<w> will </w>
+<w> give </w>
+<w> you </w>
+<w> sleepy </w>
+<w> drinks </w>
+<pc>,</pc>
+<w> that </w>
+<w> your </w>
+<w> senses </w>
+<pc>,</pc>
+<w> unintelligent </w>
+<w> of </w>
+<w> our </w>
+<w> insufficience </w>
+<pc>,</pc>
+<w> may </w>
+<pc>,</pc>
+<w> though </w>
+<w> they </w>
+<w> cannot </w>
+<w> praise </w>
+<w> us </w>
+<pc>,</pc>
+<w> as </w>
+<w> little </w>
+<w> accuse</w>
+<w> us </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> CAMILLO </w>
+</speaker>
+<w> You </w>
+<w> pay </w>
+<w> a </w>
+<w> great </w>
+<w> deal </w>
+<w> too </w>
+<w> dear </w>
+<w> for </w>
+<w> what’s </w>
+<w> given </w>
+<w> freely </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> ARCHIDAMUS </w>
+</speaker>
+<w> Believe</w>
+<w> me </w>
+<pc>,</pc>
+<w> I </w>
+<w> speak </w>
+<w> as </w>
+<w> my </w>
+<w> understanding </w>
+<w> instructs </w>
+<w> me </w>
+<w> and </w>
+<w> as </w>
+<w> mine </w>
+<w> honesty </w>
+<w> puts </w>
+<w> it </w>
+<w> to </w>
+<w> utterance </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> CAMILLO </w>
+</speaker>
+<w> Sicilia </w>
+<w> cannot </w>
+<w> show </w>
+<w> himself </w>
+<w> overkind </w>
+<w> to </w>
+<w> Bohemia </w>
+<pc>.</pc>
+<w> They </w>
+<w> were </w>
+<w> trained </w>
+<w> together </w>
+<w> in </w>
+<w> their </w>
+<w> childhoods </w>
+<pc>,</pc>
+<w> and </w>
+<w> there </w>
+<w> rooted </w>
+<w> betwixt </w>
+<w> them </w>
+<w> then </w>
+<w> such </w>
+<w> an </w>
+<pb/>
+<fw> ACT 1. SC. 2 </fw>
+<w> affection </w>
+<w> which </w>
+<w> cannot </w>
+<w> choose </w>
+<w> but </w>
+<w> branch </w>
+<w> now </w>
+<pc>.</pc>
+<w> Since </w>
+<w> their </w>
+<w> more </w>
+<w> mature </w>
+<w> dignities </w>
+<w> and </w>
+<w> royal </w>
+<w> necessities </w>
+<w> made </w>
+<w> separation </w>
+<w> of </w>
+<w> their </w>
+<w> society </w>
+<pc>,</pc>
+<w> their </w>
+<w> encounters </w>
+<pc>,</pc>
+<w> though </w>
+<w> not </w>
+<w> personal </w>
+<pc>,</pc>
+<w> hath </w>
+<w> been </w>
+<w> royally </w>
+<w> attorneyed </w>
+<w> with </w>
+<w> interchange </w>
+<w> of </w>
+<w> gifts </w>
+<pc>,</pc>
+<w> letters </w>
+<pc>,</pc>
+<w> loving </w>
+<w> embassies </w>
+<pc>,</pc>
+<w> that </w>
+<w> they </w>
+<w> have </w>
+<w> seemed </w>
+<w> to </w>
+<w> be </w>
+<w> together </w>
+<w> though </w>
+<w> absent </w>
+<pc>,</pc>
+<w> shook </w>
+<w> hands </w>
+<w> as </w>
+<w> over </w>
+<w> a </w>
+<w> vast </w>
+<pc>,</pc>
+<w> and </w>
+<w> embraced </w>
+<w> as </w>
+<w> it </w>
+<w> were </w>
+<w> from </w>
+<w> the </w>
+<w> ends </w>
+<w> of </w>
+<w> opposed </w>
+<w> winds </w>
+<pc>.</pc>
+<w> The </w>
+<w> heavens </w>
+<w> continue </w>
+<w> their </w>
+<w> loves </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> ARCHIDAMUS </w>
+</speaker>
+<w> I </w>
+<w> think </w>
+<w> there </w>
+<w> is </w>
+<w> not </w>
+<w> in </w>
+<w> the </w>
+<w> world </w>
+<w> either </w>
+<w> malice </w>
+<w> or </w>
+<w> matter </w>
+<w> to </w>
+<w> alter </w>
+<w> it </w>
+<pc>.</pc>
+<w> You </w>
+<w> have </w>
+<w> an </w>
+<w> unspeakable </w>
+<w> comfort </w>
+<w> of </w>
+<w> your </w>
+<w> young </w>
+<w> Prince </w>
+<w> Mamillius </w>
+<pc>.</pc>
+<w> It </w>
+<w> is </w>
+<w> a </w>
+<w> gentleman </w>
+<w> of </w>
+<w> the </w>
+<w> greatest </w>
+<w> promise </w>
+<w> that </w>
+<w> ever </w>
+<w> came </w>
+<w> into </w>
+<w> my </w>
+<w> note </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> CAMILLO </w>
+</speaker>
+<w> I </w>
+<w> very </w>
+<w> well </w>
+<w> agree </w>
+<w> with </w>
+<w> you </w>
+<w> in </w>
+<w> the </w>
+<w> hopes </w>
+<w> of </w>
+<w> him </w>
+<pc>.</pc>
+<w> It </w>
+<w> is </w>
+<w> a </w>
+<w> gallant </w>
+<w> child </w>
+<w> one </w>
+<w> that </w>
+<w> indeed </w>
+<w> physics </w>
+<w> the </w>
+<w> subject </w>
+<pc>,</pc>
+<w> makes </w>
+<w> old </w>
+<w> hearts </w>
+<w> fresh </w>
+<pc>.</pc>
+<w> They </w>
+<w> that </w>
+<w> went </w>
+<w> on </w>
+<w> crutches </w>
+<w> ere </w>
+<w> he </w>
+<w> was </w>
+<w> born </w>
+<w> desire </w>
+<w> yet </w>
+<w> their </w>
+<w> life </w>
+<w> to </w>
+<w> see </w>
+<w> him </w>
+<w> a </w>
+<w> man </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> ARCHIDAMUS </w>
+</speaker>
+<w> Would </w>
+<w> they </w>
+<w> else </w>
+<w> be </w>
+<w> content </w>
+<w> to </w>
+<w> die </w>
+<pc>?</pc>
+</sp>
+<sp>
+<speaker>
+<w> CAMILLO </w>
+</speaker>
+<w> Yes </w>
+<pc>,</pc>
+<w> if </w>
+<w> there </w>
+<w> were </w>
+<w> no </w>
+<w> other </w>
+<w> excuse </w>
+<w> why </w>
+<w> they </w>
+<w> should </w>
+<w> desire </w>
+<w> to </w>
+<w> live </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> ARCHIDAMUS </w>
+</speaker>
+<w> If </w>
+<w> the </w>
+<w> King </w>
+<w> had </w>
+<w> no </w>
+<w> son </w>
+<pc>,</pc>
+<w> they </w>
+<w> would </w>
+<w> desire </w>
+<w> to </w>
+<w> live </w>
+<w> on </w>
+<w> crutches </w>
+<w> till </w>
+<w> he </w>
+<w> had </w>
+<w> one </w>
+<pc>.</pc>
+</sp>
+<stage>
+<w> They </w>
+<w> exit </w>
+<pc>.</pc>
+</stage>
+</div2>
+<div2>
+<head>
+<w> Scene </w>
+<w> 2 </w>
+</head>
+<stage>
+<w> Enter </w>
+<w> Leontes </w>
+<pc>,</pc>
+<w> Hermione </w>
+<pc>,</pc>
+<w> Mamillius </w>
+<pc>,</pc>
+<w> Polixenes </w>
+<pc>,</pc>
+<w> Camillo </w>
+<pc>,</pc>
+<w> and </w>
+<w> Attendants </w>
+<pc>.</pc>
+</stage>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> Nine </w>
+<w> changes </w>
+<w> of </w>
+<w> the </w>
+<w> wat’ry </w>
+<w> star </w>
+<w> hath </w>
+<w> been </w>
+<w> The </w>
+<w> shepherd’s </w>
+<w> note </w>
+<w> since </w>
+<w> we </w>
+<w> have </w>
+<w> left </w>
+<w> our </w>
+<w> throne </w>
+<w> Without </w>
+<w> a </w>
+<w> burden </w>
+<pc>.</pc>
+<w> Time </w>
+<w> as </w>
+<w> long </w>
+<w> again </w>
+<pb>
+<fw> ACT 1. SC. 2 </fw>
+<w> Would </w>
+<w> be </w>
+<w> filled </w>
+<w> up </w>
+<pc>,</pc>
+<w> my </w>
+<w> brother </w>
+<pc>,</pc>
+<w> with </w>
+<w> our </w>
+<w> thanks </w>
+<pc>,</pc>
+<w> And </w>
+<w> yet </w>
+<w> we </w>
+<w> should </w>
+<w> for </w>
+<w> perpetuity </w>
+<w> Go </w>
+<w> hence </w>
+<w> in </w>
+<w> debt </w>
+<pc>.</pc>
+<w> And </w>
+<w> therefore </w>
+<pc>,</pc>
+<w> like </w>
+<w> a </w>
+<w> cipher </w>
+<pc>,</pc>
+<w> Yet </w>
+<w> standing </w>
+<w> in </w>
+<w> rich </w>
+<w> place </w>
+<pc>,</pc>
+<w> I </w>
+<w> multiply </w>
+<w> With </w>
+<w> one </w>
+<q>
+<w> We </w>
+<w> thank </w>
+<w> you </w>
+</q>
+<w> many </w>
+<w> thousands </w>
+<w> more </w>
+<w> That </w>
+<w> go </w>
+<w> before </w>
+<w> it </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> LEONTES </w>
+</speaker>
+<w> Stay </w>
+<w> your </w>
+<w> thanks </w>
+<w> awhile </w>
+<pc>,</pc>
+<w> And </w>
+<w> pay </w>
+<w> them </w>
+<w> when </w>
+<w> you </w>
+<w> part </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> Sir </w>
+<pc>,</pc>
+<w> that’s </w>
+<w> tomorrow </w>
+<pc>.</pc>
+<w> I </w>
+<w> am </w>
+<w> questioned </w>
+<w> by </w>
+<w> my </w>
+<w> fears </w>
+<w> of </w>
+<w> what </w>
+<w> may </w>
+<w> chance </w>
+<w> Or </w>
+<w> breed </w>
+<w> upon </w>
+<w> our </w>
+<w> absence </w>
+<pc>,</pc>
+<w> that </w>
+<w> may </w>
+<w> blow </w>
+<w> No </w>
+<w> sneaping </w>
+<w> winds </w>
+<w> at </w>
+<w> home </w>
+<w> to </w>
+<w> make </w>
+<w> us </w>
+<w> say </w>
+<q>
+<w> This </w>
+<w> is </w>
+<w> put </w>
+<w> forth </w>
+<w> too </w>
+<w> truly </w>
+<pc>.</pc>
+</q>
+<w> Besides </w>
+<pc>,</pc>
+<w> I </w>
+<w> have </w>
+<w> stayed </w>
+<w> To </w>
+<w> tire </w>
+<w> your </w>
+<w> Royalty </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> LEONTES </w>
+</speaker>
+<w> We </w>
+<w> are </w>
+<w> tougher </w>
+<pc>,</pc>
+<w> brother </w>
+<pc>,</pc>
+<w> Than </w>
+<w> you </w>
+<w> can </w>
+<w> put </w>
+<w> us </w>
+<w> to </w>
+<w> ’t </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> No </w>
+<w> longer </w>
+<w> stay </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> LEONTES </w>
+</speaker>
+<w> One </w>
+<w> sev’nnight </w>
+<w> longer </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> Very </w>
+<w> sooth </w>
+<pc>,</pc>
+<w> tomorrow </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> LEONTES </w>
+</speaker>
+<w> We’ll </w>
+<w> part </w>
+<w> the </w>
+<w> time </w>
+<w> between </w>
+<w> ’s </w>
+<pc>,</pc>
+<w> then </w>
+<pc>,</pc>
+<w> and </w>
+<w> in </w>
+<w> that </w>
+<w> I’ll </w>
+<w> no </w>
+<w> gainsaying </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> Press </w>
+<w> me </w>
+<w> not </w>
+<pc>,</pc>
+<w> beseech </w>
+<w> you </w>
+<pc>,</pc>
+<w> so </w>
+<pc>.</pc>
+<w> There </w>
+<w> is </w>
+<w> no </w>
+<w> tongue </w>
+<w> that </w>
+<w> moves </w>
+<pc>,</pc>
+<w> none </w>
+<pc>,</pc>
+<w> none </w>
+<w> i’ </w>
+<w> th’ </w>
+<w> world </w>
+<pc>,</pc>
+<w> So </w>
+<w> soon </w>
+<w> as </w>
+<w> yours </w>
+<w> could </w>
+<w> win </w>
+<w> me </w>
+<pc>.</pc>
+<w> So </w>
+<w> it </w>
+<w> should </w>
+<w> now </w>
+<pc>,</pc>
+<w> Were </w>
+<w> there </w>
+<w> necessity </w>
+<w> in </w>
+<w> your </w>
+<w> request </w>
+<pc>,</pc>
+<w> although </w>
+<w> ’Twere </w>
+<w> needful </w>
+<w> I </w>
+<w> denied </w>
+<w> it </w>
+<pc>.</pc>
+<w> My </w>
+<w> affairs </w>
+<w> Do </w>
+<w> even </w>
+<w> drag </w>
+<w> me </w>
+<w> homeward </w>
+<pc>,</pc>
+<w> which </w>
+<w> to </w>
+<w> hinder </w>
+<w> Were </w>
+<w> in </w>
+<w> your </w>
+<w> love </w>
+<w> a </w>
+<w> whip </w>
+<w> to </w>
+<w> me </w>
+<pc>,</pc>
+<w> my </w>
+<w> stay </w>
+<w> To </w>
+<w> you </w>
+<w> a </w>
+<w> charge </w>
+<w> and </w>
+<w> trouble </w>
+<pc>.</pc>
+<w> To </w>
+<w> save </w>
+<w> both </w>
+<pc>,</pc>
+<w> Farewell </w>
+<pc>,</pc>
+<w> our </w>
+<w> brother </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> LEONTES </w>
+</speaker>
+<w> Tonguetied </w>
+<pc>,</pc>
+<w> our </w>
+<w> queen </w>
+<pc>?</pc>
+<w> Speak </w>
+<w> you </w>
+<pc>.</pc>
+</sp>
+<pb>
+<fw> ACT 1. SC. 2 </fw>
+<sp>
+<speaker>
+<w> HERMIONE </w>
+</speaker>
+<w> I </w>
+<w> had </w>
+<w> thought </w>
+<pc>,</pc>
+<w> sir </w>
+<pc>,</pc>
+<w> to </w>
+<w> have </w>
+<w> held </w>
+<w> my </w>
+<w> peace </w>
+<w> until </w>
+<w> You </w>
+<w> had </w>
+<w> drawn </w>
+<w> oaths </w>
+<w> from </w>
+<w> him </w>
+<w> not </w>
+<w> to </w>
+<w> stay </w>
+<pc>.</pc>
+<w> You </w>
+<pc>,</pc>
+<w> sir </w>
+<pc>,</pc>
+<w> Charge </w>
+<w> him </w>
+<w> too </w>
+<w> coldly </w>
+<pc>.</pc>
+<w> Tell </w>
+<w> him </w>
+<w> you </w>
+<w> are </w>
+<w> sure </w>
+<w> All </w>
+<w> in </w>
+<w> Bohemia’s </w>
+<w> well </w>
+<pc>.</pc>
+<w> This </w>
+<w> satisfaction </w>
+<w> The </w>
+<w> bygone </w>
+<w> day </w>
+<w> proclaimed </w>
+<pc>.</pc>
+<w> Say </w>
+<w> this </w>
+<w> to </w>
+<w> him </w>
+<pc>,</pc>
+<w> He’s </w>
+<w> beat </w>
+<w> from </w>
+<w> his </w>
+<w> best </w>
+<w> ward </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> LEONTES </w>
+</speaker>
+<w> Well </w>
+<w> said </w>
+<pc>,</pc>
+<w> Hermione </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> HERMIONE </w>
+</speaker>
+<w> To </w>
+<w> tell </w>
+<w> he </w>
+<w> longs </w>
+<w> to </w>
+<w> see </w>
+<w> his </w>
+<w> son </w>
+<w> were </w>
+<w> strong </w>
+<pc>.</pc>
+<w> But </w>
+<w> let </w>
+<w> him </w>
+<w> say </w>
+<w> so </w>
+<w> then </w>
+<pc>,</pc>
+<w> and </w>
+<w> let </w>
+<w> him </w>
+<w> go </w>
+<pc>.</pc>
+<w> But </w>
+<w> let </w>
+<w> him </w>
+<w> swear </w>
+<w> so </w>
+<w> and </w>
+<w> he </w>
+<w> shall </w>
+<w> not </w>
+<w> stay </w>
+<pc>;</pc>
+<w> We’ll </w>
+<w> thwack </w>
+<w> him </w>
+<w> hence </w>
+<w> with </w>
+<w> distaffs</w>
+<pc>.</pc>
+<stage>
+<w> To </w>
+<w> Polixenes </w>
+<pc>.</pc>
+</stage>
+<w> Yet </w>
+<w> of </w>
+<w> your </w>
+<w> royal </w>
+<w> presence </w>
+<w> I’ll </w>
+<w> adventure </w>
+<w> The </w>
+<w> borrow </w>
+<w> of </w>
+<w> a </w>
+<w> week </w>
+<pc>.</pc>
+<w> When </w>
+<w> at </w>
+<w> Bohemia </w>
+<w> You </w>
+<w> take </w>
+<w> my </w>
+<w> lord </w>
+<pc>,</pc>
+<w> I’ll </w>
+<w> give </w>
+<w> him </w>
+<w> my </w>
+<w> commission </w>
+<w> To </w>
+<w> let </w>
+<w> him </w>
+<w> there </w>
+<w> a </w>
+<w> month </w>
+<w> behind </w>
+<w> the </w>
+<w> gest </w>
+<w> Prefixed </w>
+<w> for </w>
+<w> ’s </w>
+<w> parting </w>
+<pc>.</pc>
+<w> Yet </w>
+<pc>,</pc>
+<w> good </w>
+<w> deed </w>
+<pc>,</pc>
+<w> Leontes </w>
+<pc>,</pc>
+<w> I </w>
+<w> love </w>
+<w> thee </w>
+<w> not </w>
+<w> a </w>
+<w> jar </w>
+<w> o’ </w>
+<w> th’ </w>
+<w> clock </w>
+<w> behind </w>
+<w> What </w>
+<w> lady </w>
+<w> she </w>
+<w> her </w>
+<w> lord </w>
+<pc>.</pc>
+<w> You’ll </w>
+<w> stay </w>
+<pc>?</pc>
+</sp>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> No </w>
+<pc>,</pc>
+<w> madam </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> HERMIONE </w>
+</speaker>
+<w> Nay </w>
+<pc>,</pc>
+<w> but </w>
+<w> you </w>
+<w> will </w>
+<pc>?</pc>
+</sp>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> I </w>
+<w> may </w>
+<w> not </w>
+<pc>,</pc>
+<w> verily </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> HERMIONE </w>
+</speaker>
+<w> Verily </w>
+<pc>?</pc>
+<w> You </w>
+<w> put </w>
+<w> me </w>
+<w> off </w>
+<w> with </w>
+<w> limber </w>
+<w> vows </w>
+<pc>.</pc>
+<w> But </w>
+<w> I </w>
+<pc>,</pc>
+<w> Though </w>
+<w> you </w>
+<w> would </w>
+<w> seek </w>
+<w> t’ </w>
+<w> unsphere </w>
+<w> the </w>
+<w> stars </w>
+<w> with </w>
+<w> oaths </w>
+<pc>,</pc>
+<w> Should </w>
+<w> yet </w>
+<w> say </w>
+<q>
+<w> Sir </w>
+<pc>,</pc>
+<w> no </w>
+<w> going </w>
+<pc>.</pc>
+</q>
+<w> Verily </w>
+<pc>,</pc>
+<w> You </w>
+<w> shall </w>
+<w> not </w>
+<w> go </w>
+<pc>.</pc>
+<w> A </w>
+<w> lady’s </w>
+<q>
+<w> verily </w>
+</q>
+<w> is </w>
+<w> As </w>
+<w> potent </w>
+<w> as </w>
+<w> a </w>
+<w> lord’s </w>
+<pc>.</pc>
+<w> Will </w>
+<w> you </w>
+<w> go </w>
+<w> yet </w>
+<pc>?</pc>
+<w> Force </w>
+<w> me </w>
+<w> to </w>
+<w> keep </w>
+<w> you </w>
+<w> as </w>
+<w> a </w>
+<w> prisoner </w>
+<pc>,</pc>
+<w> Not </w>
+<w> like </w>
+<w> a </w>
+<w> guest </w>
+<pc>,</pc>
+<w> so </w>
+<w> you </w>
+<w> shall </w>
+<w> pay </w>
+<w> your </w>
+<w> fees </w>
+<w> When </w>
+<w> you </w>
+<w> depart </w>
+<w> and </w>
+<w> save </w>
+<w> your </w>
+<w> thanks </w>
+<pc>.</pc>
+<w> How </w>
+<w> say </w>
+<w> you </w>
+<pc>?</pc>
+<fw> ACT 1. SC. 2 </fw>
+<w> My </w>
+<w> prisoner </w>
+<w> or </w>
+<w> my </w>
+<w> guest </w>
+<pc>?</pc>
+<w> By </w>
+<w> your </w>
+<w> dread </w>
+<q>
+<w> verily </w>
+<pc>,</pc>
+</q>
+<w> One </w>
+<w> of </w>
+<w> them </w>
+<w> you </w>
+<w> shall </w>
+<w> be </w>
+<pc>.</pc>
+</sp>
+<sp>
+<speaker>
+<w> POLIXENES </w>
+</speaker>
+<w> Your </w>
+<w> guest </w>
+<pc>,</pc>
+<w> then </w>
+<pc>,</pc>
+<w> madam </w>
+<pc>.</pc>
+<w> To </w>
+<w> be </w>
+<w> your </w>
+<w> prisoner </w>
+<w> should </w>
+<w> import </w>
+<w> offending </w>
+<pc>,</pc>
+<w> Which </w>
+<w> is </w>
+<w> for </w>
+<w> me </w>
+<w> less </w>
+<w> easy </w>
+<w> to </w>
+<w> commit </w>
+<w> Than </w>
+<w> you </w>
+<w> to </w>
+<w> punish </w>
+<pc>.</pc>
+</sp>
+</TEI>

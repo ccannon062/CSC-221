@@ -1,0 +1,14 @@
+body {    font-family: arial;    }
+h1 {    background-color:#CCC;    
+	border: 1px solid;    
+	color:#880000;    
+	text-align: center;    }
+h2 {	color:#FF0000;    
+	text-align: center;    }
+h3 {    background-color:#8888FF;    
+	border: 1px solid;
+	color:#AA0000;
+	font-style: italic;    }
+h4 {    color:#880000;
+	font-style: italic;    }
+p {    color:#000000;          }
